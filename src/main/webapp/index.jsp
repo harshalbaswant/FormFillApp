@@ -1,6 +1,6 @@
 <form action="action_page.php">
    <div class="container">
-    <h1>Radical Student Registration For Complete Devops!</h1>
+    <h1>Complete CICD with Promethus And Grafana</h1>
     <p>Please fill in this form!</p>
     <hr>
 
